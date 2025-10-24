@@ -1,0 +1,7 @@
+{
+  "name": "AI Spark (شرارة الذكاء الاصطناعي)",
+  "description": "الابتكار يلتهب هنا: أدوات الذكاء الاصطناعي بين يديك. An all-in-one AI toolkit for creators, students, and tech enthusiasts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
